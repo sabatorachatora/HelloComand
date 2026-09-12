@@ -1,0 +1,20 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:iron_golem_spawn_egg": 1,
+      "minecraft:iron_sword": 2
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 1430,
+      "minecraft:walk_one_cm": 771,
+      "minecraft:total_world_time": 1448,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 1804,
+      "minecraft:play_time": 1430,
+      "minecraft:damage_dealt": 300,
+      "minecraft:jump": 6,
+      "minecraft:time_since_death": 1430
+    }
+  },
+  "DataVersion": 4671
+}

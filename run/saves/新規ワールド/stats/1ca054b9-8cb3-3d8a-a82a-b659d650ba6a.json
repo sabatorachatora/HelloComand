@@ -1,0 +1,24 @@
+{
+  "stats": {
+    "minecraft:killed": {
+      "minecraft:iron_golem": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:poppy": 2,
+      "minecraft:iron_ingot": 4
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 2522,
+      "minecraft:walk_one_cm": 833,
+      "minecraft:total_world_time": 2534,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 1748,
+      "minecraft:mob_kills": 1,
+      "minecraft:play_time": 2522,
+      "minecraft:damage_dealt": 970,
+      "minecraft:jump": 15,
+      "minecraft:time_since_death": 2522
+    }
+  },
+  "DataVersion": 4671
+}

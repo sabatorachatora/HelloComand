@@ -1,0 +1,50 @@
+/time set day
+/mtp1 164 84 -91
+/mtp2 164 84 -91
+/mtp1 164 84 -91
+/mtp2 164 84 -91
+/mtp1 164 84 -91
+/mtp2 164 84 -91
+/mtp1 164 84 -91
+/weather clear
+/time set day
+/mtp1 164 84 -91
+/mtp2 164 84 -91
+/mtp3 164 84 -91
+/mtp1 164 84 -91
+/mtp3 164 85 -91
+/mtp1 164 85 -91
+/mtp3 164 85 -91
+/mtp3 1 1 1
+/mtp1 164 85 -91
+/time set day
+/weather clear
+/weather rain
+/weather thunder
+/weather clear
+/time query daytime
+/time query gametime
+/time query day
+/time query daytime
+/time add 1d
+/time add 2s
+/time add 1t
+/time set day
+/mw_time 10d
+/mw_time 1d
+/time set midnight
+/mw_time 1d
+/mw_time clear_sunny
+/mw_sunny
+/time set day
+/mw_setblocks
+/mw_setblocks a
+/mw_setblocks x3
+/mw_setblocks2 4 4 5
+/fill 166 87 -97 168 83 -92 air
+/time set day
+/m
+/mw_sunny
+/mweather1 clear_sunny
+/gamemode survival
+/gamemode creative

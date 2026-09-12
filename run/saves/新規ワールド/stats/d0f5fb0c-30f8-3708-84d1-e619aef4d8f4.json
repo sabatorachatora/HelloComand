@@ -1,0 +1,34 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:snow": 2,
+      "minecraft:prismarine_bricks": 11,
+      "minecraft:waxed_oxidized_copper_bulb": 5,
+      "minecraft:glow_item_frame": 7,
+      "minecraft:redstone_block": 3,
+      "minecraft:spyglass": 6,
+      "minecraft:anvil": 3,
+      "minecraft:cartography_table": 3,
+      "minecraft:filled_map": 7,
+      "minecraft:map": 2,
+      "minecraft:smithing_table": 1,
+      "minecraft:cyan_banner": 6
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 25219,
+      "minecraft:walk_one_cm": 10398,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 25219,
+      "minecraft:jump": 62,
+      "minecraft:time_since_death": 25219,
+      "minecraft:interact_with_cartography_table": 6,
+      "minecraft:sprint_one_cm": 868,
+      "minecraft:interact_with_smithing_table": 1,
+      "minecraft:total_world_time": 26293,
+      "minecraft:fly_one_cm": 432628,
+      "minecraft:interact_with_anvil": 4,
+      "minecraft:sneak_time": 68
+    }
+  },
+  "DataVersion": 4671
+}

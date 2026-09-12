@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "hellocommand:custom_weapon": 1
+    },
+    "minecraft:picked_up": {
+      "hellocommand:custom_weapon": 1
+    },
+    "minecraft:used": {
+      "minecraft:spyglass": 4
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 1993,
+      "minecraft:time_since_rest": 4587,
+      "minecraft:walk_one_cm": 3202,
+      "minecraft:total_world_time": 4676,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 6442,
+      "minecraft:sneak_time": 11,
+      "minecraft:play_time": 4587,
+      "minecraft:jump": 33,
+      "minecraft:time_since_death": 4587,
+      "minecraft:drop": 1
+    }
+  },
+  "DataVersion": 4671
+}

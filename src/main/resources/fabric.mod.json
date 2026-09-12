@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "hellocomand",
+  "version": "${version}",
+  "name": "HelloComand",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/hellocomand/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "maikura.hellocomand.client.HellocomandDataGenerator"
+    ],
+    "client": [
+      "maikura.hellocomand.client.HellocomandClient"
+    ],
+    "main": [
+      "maikura.hellocomand.Hellocomand"
+    ]
+  },
+  "mixins": [
+    "hellocomand.mixins.json",
+    {
+      "config": "hellocomand.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-language-kotlin": ">=${kotlin_loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
